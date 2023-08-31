@@ -1,5 +1,7 @@
 # Contributing
 
-## Slack
 
-We host a public Slack with a dedicated channel for contributors and maintainers of open source projects hosted by New Relic.  If you are contributing to this project, you're welcome to request access to the #oss-contributors channel in the newrelicusers.slack.com workspace.  To request access, see https://join.slack.com/t/newrelicusers/shared_invite/zt-1ayj69rzm-~go~Eo1whIQGYnu3qi15ng.
+## Community
+
+We host a community forum for contributors to open source projects in the New Relic organization on GitHub. To access the forum, use [newrelic.com/community](https://newrelic.com/community).
+ 
